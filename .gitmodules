@@ -7,3 +7,6 @@
 [submodule "attendance_web_app"]
 	path = attendance_web_app
 	url = https://github.com/Kar1ch/attendance_web_app
+[submodule "cpp_compiler_example"]
+	path = cpp_compiler_example
+	url = https://github.com/Trilonka/cpp_compiler_example

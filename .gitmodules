@@ -1,0 +1,9 @@
+[submodule "SnowFlakeProject"]
+	path = SnowFlakeProject
+	url = https://github.com/Nikgor2002/SnowFlakeProject
+[submodule "CardReaderNative"]
+	path = CardReaderNative
+	url = https://github.com/hitfot/CardReaderNative
+[submodule "attendance_web_app"]
+	path = attendance_web_app
+	url = https://github.com/Kar1ch/attendance_web_app

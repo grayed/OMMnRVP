@@ -10,3 +10,6 @@
 [submodule "cpp_compiler_example"]
 	path = cpp_compiler_example
 	url = https://github.com/Trilonka/cpp_compiler_example
+[submodule "quack_basic"]
+	path = quack_basic
+	url = https://github.com/FoggyAndromeda/quack_basic

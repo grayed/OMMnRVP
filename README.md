@@ -69,7 +69,7 @@
   * Баринова — кодирование
   * Глухонемых — обучение нейросети
 * Репозитории:
-  * https://github.com/ddddoser/Math_Calculator
+  * https://github.com/duddoser/Math_Calculator
 
 ## Генератор художественных текстов
 * Авторы:

@@ -10,9 +10,6 @@
 [submodule "cpp_compiler_example"]
 	path = cpp_compiler_example
 	url = https://github.com/Trilonka/cpp_compiler_example
-[submodule "quack_basic"]
-	path = quack_basic
-	url = https://github.com/FoggyAndromeda/quack_basic
 [submodule "CPU-Emulator"]
 	path = CPU-Emulator
 	url = https://github.com/V13kv/CPU-Emulator
@@ -24,4 +21,4 @@
 	url = https://github.com/DroidFDV/PhysicsEngine
 [submodule "Math_Calculator"]
 	path = Math_Calculator
-	url = https://github.com/ddddoser/Math_Calculator
+	url = https://github.com/duddoser/Math_Calculator

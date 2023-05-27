@@ -13,3 +13,6 @@
 [submodule "quack_basic"]
 	path = quack_basic
 	url = https://github.com/FoggyAndromeda/quack_basic
+[submodule "CPU-Emulator"]
+	path = CPU-Emulator
+	url = https://github.com/V13kv/CPU-Emulator

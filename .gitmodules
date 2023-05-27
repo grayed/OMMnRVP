@@ -16,3 +16,7 @@
 [submodule "CPU-Emulator"]
 	path = CPU-Emulator
 	url = https://github.com/V13kv/CPU-Emulator
+[submodule "Telegram-Neural-Style-Transfer"]
+	path = Telegram-Neural-Style-Transfer
+	url = https://github.com/Sp1d3rGH/Telegram-Neural-Style-Transfer
+

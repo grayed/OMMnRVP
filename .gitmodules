@@ -19,4 +19,6 @@
 [submodule "Telegram-Neural-Style-Transfer"]
 	path = Telegram-Neural-Style-Transfer
 	url = https://github.com/Sp1d3rGH/Telegram-Neural-Style-Transfer
-
+[submodule "PhysicsEngine"]
+	path = PhysicsEngine
+	url = https://github.com/DroidFDV/PhysicsEngine
